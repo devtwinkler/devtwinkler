@@ -11,7 +11,7 @@
 - ☁️ DevOps & Cloud: **Docker, Kubernetes, AWS, CI/CD pipelines, & more**
 - 🏆 Contributor to **open-source projects & innovative AI apps, & more**
 
-## 🛠️ **Programming languages**
+## 🛠️ **language**
   Expertise in utilizing **Python, Go/GoLang, Rust, Ruby, JavaScript, Typescript, C++/C#, Dart, PHP, Solidity, & more**
 
 ## I'm open to contribute to both long-term / short-term contracts & jobs
